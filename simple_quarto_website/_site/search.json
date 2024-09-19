@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Welcome to my Simple Quarto Website.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. This section demonstrates the formatting and organization of information into multiple sections.\n\n\nPhasellus sit amet felis at tortor faucibus cursus a ut purus. Quisque gravida felis sit amet consectetur venenatis.\n\n\n\n\nThese are things I enjoy:\n\nThe beach\nSpaghetti\nDogs\n\n\n\n\n\n\n\n\nRed\n\n\nBlue\n\n\n\n\n\n\nApple\n\n\nSky\n\n\n\n\nRose\n\n\nOcean\n\n\n\n\n\n\n\nHere’s a sample table showing data:\n\n\n\nName\nAge\nJob\n\n\n\n\nPing\n22\nStudent\n\n\nJack\n23\nChef\n\n\nMarc\n24\nDeveloper\n\n\n\n\n\n\n\\(E = mc^2\\).\n\\[ E = mc^2 \\]\nExample of a footnote[^1]. [^1]: This is a sample footnote explanation.\n\n\n\n\n\n\n\n(brunton2020machine?)\n(voulodimos2018deep?)\n\n\n\n\n\nflowchart LR\n  A[Stomach Growling] --&gt; B(Hungry)\n  B --&gt; C{Eat?}\n  C --&gt; D[Burger]\n  C --&gt; E[Hotdog]\n\n\n Mermaid \n\n\n\n\n“I have a dream”. - MLK"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#project-overview",
+    "href": "index.html#project-overview",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. This section demonstrates the formatting and organization of information into multiple sections.\n\n\nPhasellus sit amet felis at tortor faucibus cursus a ut purus. Quisque gravida felis sit amet consectetur venenatis."
+  },
+  {
+    "objectID": "index.html#features-of-the-website",
+    "href": "index.html#features-of-the-website",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Below are some key features:\n\nEasy to use\nOpen source\nSupports multiple formats"
+  },
+  {
+    "objectID": "index.html#column-based-formatting",
+    "href": "index.html#column-based-formatting",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. This text will be formatted into two columns:\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nPhasellus sit amet felis at tortor faucibus cursus."
+  },
+  {
+    "objectID": "index.html#example-markdown-table",
+    "href": "index.html#example-markdown-table",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Here’s a sample table showing data:\n\n\n\nName\nAge\nRole\n\n\n\n\nAlice\n28\nDeveloper\n\n\nBob\n35\nDesigner\n\n\nCharlie\n42\nManager"
+  },
+  {
+    "objectID": "index.html#inline-math-example",
+    "href": "index.html#inline-math-example",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "You can also add inline LaTeX math like this: $ a^2 + b^2 = c^2 $."
+  },
+  {
+    "objectID": "index.html#assignment-overview",
+    "href": "index.html#assignment-overview",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. This section demonstrates the formatting and organization of information into multiple sections.\n\n\nPhasellus sit amet felis at tortor faucibus cursus a ut purus. Quisque gravida felis sit amet consectetur venenatis."
+  },
+  {
+    "objectID": "index.html#things-i-enjoy",
+    "href": "index.html#things-i-enjoy",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "These are things I enjoy:\n\nThe beach\nSpaghetti\nDogs"
+  },
+  {
+    "objectID": "index.html#making-collumns",
+    "href": "index.html#making-collumns",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Red\n\n\nBlue\n\n\n\n\n\n\nApple\n\n\nSky\n\n\n\n\nRose\n\n\nOcean"
+  },
+  {
+    "objectID": "index.html#markdown-table",
+    "href": "index.html#markdown-table",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "Here’s a sample table showing data:\n\n\n\nName\nAge\nJob\n\n\n\n\nPing\n22\nStudent\n\n\nJack\n23\nChef\n\n\nMarc\n24\nDeveloper"
+  },
+  {
+    "objectID": "index.html#latex-math",
+    "href": "index.html#latex-math",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "$ a^2 + b^2 = c^2 $."
+  },
+  {
+    "objectID": "index.html#most-famous-formula",
+    "href": "index.html#most-famous-formula",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "\\(E = mc^2\\).\n\\[ E = mc^2 \\]\nExample of a footnote[^1]. [^1]: This is a sample footnote explanation."
+  },
+  {
+    "objectID": "index.html#images",
+    "href": "index.html#images",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "(brunton2020machine?)\n(voulodimos2018deep?)\n\n\n\n\n\nflowchart LR\n  A[Stomach Growling] --&gt; B(Hungry)\n  B --&gt; C{Eat?}\n  C --&gt; D[Burger]\n  C --&gt; E[Hotdog]\n\n\n Mermaid \n\n\n\n\n“I have a dream”. - MLK"
+  },
+  {
+    "objectID": "slides/slides.html#getting-up",
+    "href": "slides/slides.html#getting-up",
+    "title": "Habits",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/slides.html#breakfast",
+    "href": "slides/slides.html#breakfast",
+    "title": "Habits",
+    "section": "Breakfast",
+    "text": "Breakfast\n\nEat eggs\nDrink coffee"
+  },
+  {
+    "objectID": "slides/slides.html#dinner",
+    "href": "slides/slides.html#dinner",
+    "title": "Habits",
+    "section": "Dinner",
+    "text": "Dinner\n\nEat spaghetti\nDrink wine"
+  },
+  {
+    "objectID": "slides/slides.html#going-to-sleep",
+    "href": "slides/slides.html#going-to-sleep",
+    "title": "Habits",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "slides/slides.html#things-i-enjoy",
+    "href": "slides/slides.html#things-i-enjoy",
+    "title": "Habits",
+    "section": "Things I enjoy",
+    "text": "Things I enjoy\n\nbeaches\ndogs\n\n\nScience"
+  },
+  {
+    "objectID": "slides/slides.html#my-favourite-foods",
+    "href": "slides/slides.html#my-favourite-foods",
+    "title": "Habits",
+    "section": "My favourite foods",
+    "text": "My favourite foods\n\nSpaghetii\nBurgers\n\n\nScience"
+  },
+  {
+    "objectID": "slides/slides.html#my-favourite-subjects",
+    "href": "slides/slides.html#my-favourite-subjects",
+    "title": "Habits",
+    "section": "My favourite subjects",
+    "text": "My favourite subjects\n\nData Science\nNeuroscience\n\nI love learning about deep learning as it is very powerful and interesting (Voulodimos et al. 2018) (Brunton, Noack, and Koumoutsakos 2020)"
+  },
+  {
+    "objectID": "slides/slides.html#my-favourite-subjects-1",
+    "href": "slides/slides.html#my-favourite-subjects-1",
+    "title": "Habits",
+    "section": "My Favourite Subjects",
+    "text": "My Favourite Subjects\n\nData Science\nNeuroscience"
+  },
+  {
+    "objectID": "slides/slides.html#python-code-example",
+    "href": "slides/slides.html#python-code-example",
+    "title": "Habits",
+    "section": "Python Code Example",
+    "text": "Python Code Example\nHere’s an example of a Python code cell that creates a simple plot:\nimport matplotlib.pyplot as plt import numpy as np x = np.linspace(0, 10, 100) y = np.sin(x)\nplt.plot(x, y) plt.show()\n\n\n\n\n\n\n\n\nBrunton, Steven L, Bernd R Noack, and Petros Koumoutsakos. 2020. “Machine Learning for Fluid Mechanics.” Annual Review of Fluid Mechanics 52 (1): 477–508.\n\n\nVoulodimos, Athanasios, Nikolaos Doulamis, Anastasios Doulamis, and Eftychios Protopapadakis. 2018. “Deep Learning for Computer Vision: A Brief Review.” Computational Intelligence and Neuroscience 2018 (1): 7068349."
+  },
+  {
+    "objectID": "slides/slides.html#slide-title",
+    "href": "slides/slides.html#slide-title",
+    "title": "Habits",
+    "section": "Slide Title",
+    "text": "Slide Title\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\nplt.plot(x, y)\nplt.title('Sine Wave')\nplt.show()\n\n\n\n\n\n\n\n\nBrunton, Steven L, Bernd R Noack, and Petros Koumoutsakos. 2020. “Machine Learning for Fluid Mechanics.” Annual Review of Fluid Mechanics 52 (1): 477–508.\n\n\nVoulodimos, Athanasios, Nikolaos Doulamis, Anastasios Doulamis, and Eftychios Protopapadakis. 2018. “Deep Learning for Computer Vision: A Brief Review.” Computational Intelligence and Neuroscience 2018 (1): 7068349."
+  }
+]

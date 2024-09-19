@@ -1,0 +1,94 @@
+---
+title: "Simple Quarto Website"
+toc: true
+bibliography: reference.bib
+---
+
+# Introduction
+
+Welcome to my **Simple Quarto Website**. 
+
+## Assignment Overview
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. This section demonstrates the formatting and organization of information into multiple sections.
+
+### My name
+
+Phasellus sit amet felis at tortor faucibus cursus a ut purus. Quisque gravida felis sit amet consectetur venenatis.
+
+## Things I enjoy
+
+These are things I enjoy:
+
+- The beach
+- Spaghetti
+- Dogs
+
+## Making collumns
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Red</th>
+      <th>Blue</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Apple</td>
+      <td>Sky</td>
+    </tr>
+    <tr>
+      <td>Rose</td>
+      <td>Ocean</td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Markdown Table
+
+Here’s a sample table showing data:
+
+| Name    | Age |    Job    |
+|---------|-----|------------|
+| Ping   | 22  |  Student |
+| Jack    | 23  | Chef   |
+| Marc | 24 | Developer    |
+
+## Most famous formula
+
+$E = mc^2$.
+
+$$ E = mc^2 $$
+
+Example of a footnote[^1].
+[^1]: This is a sample footnote explanation.
+
+<iframe width="320" height="240" src="https://www.youtube.com/embed/KbB0FjPg0mw" frameborder="0" allowfullscreen></iframe>
+
+## Images 
+<img src="/images/my_photo_copy.jpeg" alt="A picture of me" style="width:250px;height:250px;"><br>
+
+
+<img src="/images/meandkai.jpeg" alt="Me and My nephew" style="width:400px;height:250px;"><br>
+
+
+
+```{mermaid}
+%%| fig-cap: "Mermaid"
+%%| code-fold: false
+flowchart LR
+  A[Stomach Growling] --> B(Hungry)
+  B --> C{Eat?}
+  C --> D[Burger]
+  C --> E[Hotdog]
+```
+
+ > "I have a dream". - MLK
+
+[@brunton2020machine]
+
+[@voulodimos2018deep]
+
